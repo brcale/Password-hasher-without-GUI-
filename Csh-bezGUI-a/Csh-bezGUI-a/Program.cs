@@ -57,8 +57,7 @@ namespace Csh_bezGUI_a
                 if (odabir == "2")
                 {
                     short doesPassExistFlag = 0;
-                    string passwordForChecking = string.Empty;
-                    passwordForChecking = Console.ReadLine();
+                    string passwordForChecking = Console.ReadLine();
                     passwordForChecking = ShaHashing(passwordForChecking);
                     System.IO.StreamReader file = new System.IO.StreamReader(filePath);
                     Console.WriteLine("Is password in the base?");

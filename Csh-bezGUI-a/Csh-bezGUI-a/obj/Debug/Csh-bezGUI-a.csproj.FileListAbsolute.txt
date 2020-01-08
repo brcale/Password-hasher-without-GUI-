@@ -1,0 +1,6 @@
+C:\Users\Bruno\source\repos\Csh-bezGUI-a\Csh-bezGUI-a\bin\Debug\Csh-bezGUI-a.exe.config
+C:\Users\Bruno\source\repos\Csh-bezGUI-a\Csh-bezGUI-a\bin\Debug\Csh-bezGUI-a.exe
+C:\Users\Bruno\source\repos\Csh-bezGUI-a\Csh-bezGUI-a\bin\Debug\Csh-bezGUI-a.pdb
+C:\Users\Bruno\source\repos\Csh-bezGUI-a\Csh-bezGUI-a\obj\Debug\Csh-bezGUI-a.exe
+C:\Users\Bruno\source\repos\Csh-bezGUI-a\Csh-bezGUI-a\obj\Debug\Csh-bezGUI-a.pdb
+C:\Users\Bruno\source\repos\Csh-bezGUI-a\Csh-bezGUI-a\obj\Debug\Csh-bezGUI-a.csprojAssemblyReference.cache
